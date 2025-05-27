@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-  <title>BD Addon Updater</title>
-  <item>
-    <title>BD Update: Fix PVR Generatori.</title>
-  </item>
-</channel>
-</rss>
