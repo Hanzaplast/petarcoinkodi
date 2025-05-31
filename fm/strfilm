@@ -14,7 +14,7 @@
       "https://filemoon.nl/e/",
       "https://filemoon.wf/e/",
       "https://filemoon.eu/e/",
-      "https://filemoon.art/e/"   
+      "https://filemoon.art/e/"  
     ],
     "urls4": [
       "https://www.file-upload.org/"
@@ -71,6 +71,22 @@
       "fanart": "https://image.tmdb.org/t/p/w500/aESb695wTIF0tB7RTGRebnYrjFK.jpg"
     },
     {
+      "country": "Novi Aktuelni Filmovi",
+      "channel": "Retro",
+      "logo": "https://image.tmdb.org/t/p/w500/original/94lS6zIdNGozxiAgnet0BAbvMWV.jpg",
+      "id1": "u5iow9au9hr3",
+      "id2": "",
+      "id3": "",
+      "id4": "",
+      "plot": "Odgajan od oca zločinca, Paarivel Kanan ostavlja svoju usvojiteljsku porodicu da bi izgradio miran život sa svojom ljubavlju, Rukmini. Ali njegova nasilna prošlost ga ne pušta.",
+      "year": "2025",
+      "rating": "6.661",
+      "votes": "822",
+      "runtime": "162",
+      "genre": "Romance, Action, Drama, Crime",
+      "fanart": "https://image.tmdb.org/t/p/w500/original/rGcZhLzwOLz3OWWpYrelgP4HUIQ.jpg"
+    },
+    {
       "country": "Air Force Elite: Thunderbirds",
       "channel": "Air Force Elite: Thunderbirds",
       "logo": "https://m.media-amazon.com/images/M/MV5BNjMzZTE2MDMtMWRmNS00ZWEzLWI4YmUtMTVkOGUxNGY2ODdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -85,6 +101,21 @@
       "runtime": "91",
       "genre": "Documentary",
       "fanart": "https://image.tmdb.org/t/p/w500/1bWRIXsA23TJAIvBHe3PCJxHIvP.jpg"
+    },
+    {
+      "country": "Novi Aktuelni Filmovi",
+      "channel": "Sinners",
+      "logo": "https://image.tmdb.org/t/p/w500/original/yqsCU5XOP2mkbFamzAqbqntmfav.jpg",
+      "id1": "izj10xlrpshq",
+      "id2": "",
+      "id3": "7lqw3obtup6b",
+      "plot": "Pokušavajući da ostave svoje problematične živote iza sebe, braća blizanci se vraćaju u svoj rodni grad da bi počeli iznova, samo da bi otkrili da ih čeka još veće zlo.",
+      "year": "2025",
+      "rating": "7.507",
+      "votes": "759",
+      "runtime": "138",
+      "genre": "Horror, Thriller",
+      "fanart": "https://image.tmdb.org/t/p/w500/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
     },
     {
       "country": "Novi Aktuelni Filmovi",
